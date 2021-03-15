@@ -14,7 +14,7 @@
 
 function sum(a, b) {
   ///log
-  return a + b;
+  return a - b;
 }
 
 module.exports = sum;
