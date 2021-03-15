@@ -13,6 +13,7 @@
 // console.log('Oh, ' + userName + ' loves ' + favFood + '!' + boolYesOrEmpty);
 
 function sum(a, b) {
+  ///log
   return a + b;
 }
 
