@@ -13,9 +13,8 @@
 // console.log('Oh, ' + userName + ' loves ' + favFood + '!' + boolYesOrEmpty);
 
 function sum(a, b) {
-  ///log
-  return a + b + 55;
+  return a + b;
 }
+console.log("lriv urish ankap");
 
-console.log("kukuku")
 module.exports = sum;
